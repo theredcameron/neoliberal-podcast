@@ -1,0 +1,12 @@
+Number: 00
+Name: Example Episode
+Date: 0001-01-01
+Host: Host Name
+Attendees: (Attendee 1, Attendee 2)
+
+[Host Name] - Hello, my name is Host Name and welcome to this week's episode of the Neoliberal
+Podcast. 
+
+[Attendee 1] - Hello, my name is Attendee 1.
+
+[Attendee 2] - Hello, my name is Attendee 2.
