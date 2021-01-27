@@ -1,8 +1,7 @@
-Number: 00
-Name: Example Episode
+Name: Test Episode Name
 Date: 0001-01-01
 Host: Host Name
-Attendees: (Attendee 1, Attendee 2)
+Attendees: Attendee 1, Attendee 2
 
 [Host Name] - Hello, my name is Host Name and welcome to this week's episode of the Neoliberal
 Podcast. 
