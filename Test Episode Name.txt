@@ -1,11 +1,14 @@
 Name: Test Episode Name
 Date: 0001-01-01
 Host: Host Name
-Attendees: Attendee 1, Attendee 2
+Guest(s): Attendee 1, Attendee 2
 
-[Host Name] - Hello, my name is Host Name and welcome to this week's episode of the Neoliberal
+[Host Name] 0:01
+Hello, my name is Host Name and welcome to this week's episode of the Neoliberal
 Podcast. 
 
-[Attendee 1] - Hello, my name is Attendee 1.
+[Attendee 1] 0:07
+Hello, my name is Attendee 1.
 
-[Attendee 2] - Hello, my name is Attendee 2.
+[Attendee 2] 0:09
+Hello, my name is Attendee 2.

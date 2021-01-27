@@ -1,0 +1,282 @@
+Name: NGDP, the Nordic Model and Neoliberalism ft. Scott Summer
+Date: 2018-06-10
+Host: Colin Mortimer
+Guest(s): Scott Summer
+
+[Scott Summer] 0:02
+Now unfortunately, this is a little tricky to explain in words, but I'll try to give you one 
+sort of thought experiment that might make it easier to see. Suppose you had twin brothers, 
+who started life at age, you know, started their work life at age 18. Neither inherited any 
+money. And they both had the same job throughout their entire career. Making, whatever amount, 
+say $100,000 a year. I think you'd look at those two brothers as having essentially identical 
+economic situations that one would not be in any meaningful sense better off than the other 
+one. However, if one of the brothers chose to spend most of that money when he was young, and 
+the other brothers saved a lot and spent a lot when he was old, the official income data would 
+show the more thrifty brother as being much richer or better off than the one that was spending 
+the money when he was young. Now in reality, it would just be like choosing different goods. 
+So some people may like one type of product. Chevy's, someone else might like BMW is the same 
+way someone might like to consume when they're young, another person might like to consume when 
+they're old. And if you decide to consume when you're old, you're going to earn capital income. 
+And that's going to make you look better off whereas in reality, you're only choosing a 
+different path of consumption essentially. So when you tax income from capital, what you're 
+really doing is you're double taxing wage income, both at the point where it's earned and again, 
+taxing it later when it's spent. And that's what basically I'm opposed to.
+
+[Colin Mortimer] 1:48
+Our guest this week is the one and only Scott Summer. He is professor of economics at Bentley 
+University, the director of the program of monetary policy at the mercatus Center at George 
+Mason University, and a prolific blogger at the moneyillusion.com. His ideas were credited with 
+helping to end the Great Recession, and he continues to influence the conversation around 
+economic policy in this nation and abroad. Today, we talk to him about the Nordic model and why 
+it might also be a model for neoliberalism, while you're getting the concept of income 
+inequality completely wrong, and of course, about nominal GDP targeting. Enjoy.
+
+[Colin Mortimer] 2:24
+This break is brought to you by our Kickstarter backer Brent Vanden. thanks to people like 
+Brent, this podcast was able to get off the ground in no time at all. We are extremely grateful 
+for their support. Continuing to fund this podcast is not without expenses, we ship microphones 
+to all of our guests and have to pay hosting fees. If you would like to support the podcast, 
+head over to patreon.com/neolibpodcast where you can get access to our full interviews or join 
+our monthly sticker club. Our full interviews run twice as long as a regular episode, include 
+all the raw, unfiltered audio you would not otherwise hear. Our monthly sticker club is a pet 
+project of mine. Every month we commissioned a new neoliberal sticker and send it right to your 
+door. I hope you consider joining one and support the pod. Now enjoy the rest of the show.
+
+[Colin Mortimer] 3:10
+So Scott, I've heard you call yourself a neoliberal before, but I've also heard you call 
+yourself a classical liberal before. Would you describe your views as being in between those 
+two or something else entirely?
+
+[Scott Summer] 3:23
+Yeah, so these terms have meaning that is a little bit ambiguous. So it sort of depends on the 
+context, I suppose when neoliberalism is being attacked by people that are sort of opposed to 
+free markets, then I sort of identify with neoliberals. Obviously, within that group, there's 
+gonna be differences on specific issues. And my views may be a little bit more small government 
+than some other people within the same general category.
+
+[Colin Mortimer] 3:55
+So another interesting thing about your views is that you also think the Nordic system is a 
+really great model for America to follow. But interestingly enough, someone like Bernie Sanders 
+in 2016, held up the Nordic model as a great example of democratic socialism. Can you explain 
+to me why it's not a democratic socialist model, but a neoliberal model?
+
+[Scott Summer] 4:16
+Right, so there's, I think, sort of two ways of thinking about government involvement in the 
+economy. One is the size of the social insurance system, various programs like Social Security, 
+national health care, things like that. And then there's a whole sort of range of government 
+interventions in markets that would include things like price controls, tariffs, nationalization 
+of industry, regulatory barriers to entry to industry, things that move you away from a free 
+market. So I think it's important to distinguish between those Two types of government 
+involvement in the economy. And what you have in the Scandinavian countries is sort of a high 
+level of free markets combined with a pretty high level of social insurance. And in other cases, 
+you may have the opposite. In many developing countries, you have a lot of what I call statism, 
+statism referring to a high level of intervention in markets, but not a lot of social insurance. 
+So those are two different ways in which governments can intervene in the economy. And my view 
+is, if they are intervening, it's probably better to do so through free markets, plus social 
+insurance, rather than a lot of other types of intervention without social insurance.
+
+[Colin Mortimer] 5:46
+So then, what do you classify as a good intervention?
+
+[Scott Summer] 5:49
+Well, I think the, I'm sort of a utilitarian. So I basically believe in the notion that $1 is 
+worth more to a poor person than a rich person. On the other hand, I am a little more worried 
+about the side effects of redistribution than most people on the left. So I guess I come down 
+as sort of a moderate on this, I think there are certain types of policies that are reasonable 
+where we can redistribute, redistribute money, without too much of a disincentive effect. One 
+example would be, say wage subsidies for low wage workers, which would boost their income as 
+long as they were actually working. And you can have fully funded social insurance programs 
+where, like in Singapore where people contribute to funds that they can draw on when they're 
+retired, you can have health savings accounts, again, like in Singapore, where they contribute 
+to a fund that can be drawn upon when they have health care expenses. So I think there's ways 
+of addressing income inequality, the need for old age insurance and health care costs, that 
+are still fairly consistent with the free market and don't cause undue stress on incentives.
+
+[Colin Mortimer] 7:17
+So going off topic for a second, and I want to ask you about something that's been in the news 
+recently, would you say the recent republican tax bill is a net positive or net negative?
+
+[Scott Summer] 7:28
+Okay, so on the specific issues that I've been talking about, I think the recent tax bill was 
+basically good, because it reduced the tax on investment income, and also did a few things that 
+simplified the tax system. So more people will be able to itemize. So I think on balance, the 
+bill was good. However, I should say there are other ways of evaluating the tax bill and one 
+valid criticism is that the bill really wasn't paid for. So it's going to increase the budget 
+deficit at a time when we really shouldn't be increasing the budget deficit. So from a sort of 
+like fiscal policy point of view, it's really too expansionary. It would have been better to 
+try to make up the revenue in some other way, or maybe cut spending a little. Instead, we just 
+decided to increase the deficit. So I'm concerned about that. But in terms of the actual 
+structure of the tax bill itself, it does make the tax system a little bit more consumption 
+oriented. And in that sense, it's a net positive.
+
+[Colin Mortimer] 8:38
+Yeah, thank you for that. I know, you'll differ pretty strongly with your liberal economist 
+counterparts on that answer, but I appreciate hearing a counter take on that. I'm going to ask 
+you about the inevitable question, and that is about nominal GDP targeting. Why target nominal 
+GDP instead of inflation?
+
+[Scott Summer] 8:58
+Okay, so I think that I view nominal GDP targeting as promoting two types of stability, labor 
+market stability and financial system stability. I think labor market stability is the best 
+single argument. So when we think of sort of the macroeconomic problems that we face over time, 
+deep recessions like 2008, and 2009 are clearly one of the most severe macroeconomic problems 
+in terms of effects on people's lives. Especially the high unemployment, the difficulty of 
+people finding jobs, Millennials had trouble getting jobs, people had their careers ruined. 
+So if we can have a monetary policy that avoids severe recessions like 2008, and 2009, I think 
+that's a huge plus. And I won't claim that nominal GDP targeting will completely prevent 
+recessions. But I think it will make them much milder than they would be under the existing 
+monetary policy regime. And I could explain how briefly if you'd like, sort of the intuition. 
+Basically, what's going on here is the nominal wages tend to be pretty sticky. That is you, 
+you sign an agreement to work a year and say $15 an hour. And therefore, when nominal GDP 
+falls, there's less total revenue being earned by businesses to pay wages. And what happens is, 
+workers end up losing jobs. When there's a decline in nominal GDP. I compare it to the game of 
+musical chairs. When the music stops, if you pull away a couple chairs, then a couple 
+contestants will have to be sitting on the floor, and nominal GDP, since it's the total amount 
+of revenue earned by all businesses, when it declines, companies have less money to pay wages. 
+And since the hourly wage rate does not immediately fall in response to this, you end up having 
+fewer hours worked, which means more unemployment. Now, in theory, if all wages were flexible, 
+and went up and down with the economy, we could maybe maintain full employment. But that's only 
+in theory. I mean, in reality, sticky wages are a part of the system. And there's probably no 
+way we can really eliminate that problem. So we need a monetary policy that recognizes wages 
+are sticky. And I think nominal GDP targeting is the best one for dealing with that reality.
+
+[Colin Mortimer] 11:31
+You also say something super specific, and that is that we should target 4% growth in nominal 
+GDP. Then on the other hand, someone like George Seligman argues that we should be targeting 
+the growth of the labor stock. Can you explain why 4% is your measure of choice and not 
+something else?
+
+[Scott Summer] 11:49
+Okay, so there's trade offs here, if it's too high, you have the problems associated with high 
+inflation. Now, if it's too low, I would worry about two issues, perhaps a little bit more than 
+than George is worried. And those two issues are one the zero bound on interest rates. So at 
+very, very low rates of growth, interest rates are more likely to be at zero. And the monetary 
+policymakers are not very good at doing monetary policy when interest rates are stuck at zero. 
+And there's also a sort of a zero bound problem for wages, due to what sometimes called money 
+illusion. So wages do have some flexibility in the long run, I mean, workers will take pay cuts 
+or pay increases eventually. But one of the problems is that there's sort of a barrier of zero. 
+Psychologically, it's very difficult to cut wages in a nominal sense. Let me give you an 
+example. Suppose that inflation is running at about 4% a year, and you give workers a 3% pay 
+increase, they probably won't be thrilled with that. But you know, it might not be viewed as 
+that big a deal. It's 1% less than the inflation rate, so their real wage goes down 1%. But if 
+the inflation rate were say, zero, and you gave workers a 1% pay cut, they're more likely to 
+view that as sort of a personal insult, because people tend to think in nominal terms. So if 
+you cut their nominal wage, that that really seems worse, I think, to the average person than 
+reducing their real wage more subtly through inflation. And for that reason, I think the labor 
+market is a little more flexible. If the average inflation rate is slightly above zero, or 
+average nominal GDP growth rate is slightly above zero. And that way, when wages do need to 
+fall in a particular industry, because there's been some kind of downturn in that industry, 
+it's easier to accommodate that reduction in real wages, through slower growth in nominal 
+wages, rather than actually having to cut the nominal wage, by By the way, by nominal wage, I 
+mean, sort of the actual wage that people see on their paycheck, that's what people focus on. 
+And that's what's difficult to cut below 0% increase. And so there's actually economic data 
+that shows that. If you look at a bell shaped distribution of wage increases, right at 0%, 
+there's a tremendous drop off. So there's many, many more wage changes of 012, then the same 
+minus one. And clearly there's a psychological barrier at that level.
+
+[Colin Mortimer] 14:40
+So you've written about how in the 20th century, the miracle of neoliberalism is a miracle we 
+don't talk enough about and then you again wrote in 2010, about how neoliberalism was gonna 
+hold strong to the next decade. We're in 2018 now, and it looks like neoliberalism is on the 
+decline. With the elected politicians were putting in power and economic policies that were 
+pushing. Can you talk to me? Do you think you were wrong in 2010?
+
+[Scott Summer] 15:12
+Right. So I think the great recession has been a little bit of a setback for neoliberalism, and 
+not just the Great Recession, but maybe the 21st century as a whole. So the heyday of 
+neoliberalism was definitely the 80s and 90s, maybe into the early 2000s. But there have been 
+some setbacks. On the other hand, sometimes I think the setbacks are more sort of in terms of 
+the Zeitgeist, the ideological views circulate around the world than the actual policy. So I 
+don't think though, in a strict policy sense, the world is necessarily becoming all that much 
+less neoliberal. You know, you still have countries trying to sign free trade agreements, you 
+still have gradual moves towards the market economy in big places like China and India. You 
+know, you can still find places that you you still have cases where countries that get into 
+economic crises like Greece are under pressure to have market oriented reforms to make their 
+economy more market oriented. So I would say it's a mixed bag, but certainly in the United 
+States and Britain and number of a number of other countries, there has been a swing away from 
+neoliberalism. You have a rise of interest in politicians like Sanders and Corbin that are more 
+statist in their policy views, anti neoliberal. And certainly, I would say the, the golden age 
+of neoliberalism has ended, but we have definitely not seen a dramatic swing back to the policy 
+regime of the 1970s. So we'll have to see what happens going forward. But you still don't have 
+things like across the board wage price controls, and we haven't reregulated the airline 
+industry and trucking industry. And there's many, many changes that occurred during that 
+period that have not been reversed. I would even add that the recent corporate tax bill was 
+consistent with neoliberalism, which emphasizes taxing consumption.
+
+[Colin Mortimer] 17:26
+What aggravates me is that people use the term neoliberalism to describe things that really 
+aren't neoliberalism. And it just became a slur for things they didn't like about government 
+inaction or economic policy.
+
+[Scott Summer] 17:41
+Yeah, and that's always been true. I mean, that's also true for the term capitalism. It's a 
+term mostly used by the critics, I mean, very, the defenders usually use another term to 
+describe their own beliefs. And you know, what, what people tend to do is, if they don't like 
+capitalism, or neoliberalism, they assign the term basically two things they don't like about 
+particular countries, right? So they'll focus on sort of the the negative aspects of what they 
+see is neoliberalism, and the more positive aspects they'll overlook. So the critics of 
+neoliberalism, often are surprised when people point out that someplace like Denmark is 
+actually a highly neoliberal economy, because it doesn't meet their sort of dark, dystopian 
+vision of what neoliberalism is all about. But if you actually, when I did a study in 2008, I 
+found that if you took away the one issue of like size of spending on social programs, and 
+looked at all the other measures of free markets that you find in like the Heritage Institute, 
+index of economic freedom, Denmark was actually number one and economic freedom except for the 
+category of size of government. You know, it actually ended up somewhere around number 10 on 
+the list, because it had such a large welfare state. But on all the other categories, averaged 
+out, it ended up being the most neoliberal economy in the world. And I think most people don't 
+think of it that way, because they think of this term in more ideological context of left 
+versus right. And neoliberalism, as I describe it, that is free markets, plus social insurance 
+doesn't fit neatly into that left versus right dichotomy.
+
+[Colin Mortimer] 19:32
+That makes sense. So what you're saying is that you wouldn't be very upset if the United States 
+moved towards, say the Danish model.
+
+[Scott Summer] 19:40
+No, I wouldn't necessarily be more upset, but it really depends how it does that. So if the 
+only thing that did was to make a larger welfare state, then I actually would be upset by that 
+because I think that would be a step in the wrong direction. But if it did all the other things 
+that Denmark does, if we move to freer trade more open to foreign investment, more open to 
+privatization, you know, Denmark privatizes many activities that are done by the public sector 
+in the United States. Those are the changes that I would support. But those are of course, not 
+the changes that Bernie Sanders is referring to when he talks about Denmark, he's referring 
+mostly to the size of the social welfare state. And not only do I think this welfare state is 
+a little bit too large in Denmark, I also think that Denmark is a country much more suited to 
+a large welfare state than the United States. So the same welfare policies in Denmark, adopted 
+here would work much, much less effectively than they work in Denmark, because of cultural 
+differences. Basically, Denmark has a culture that is extremely high trust society, by some 
+measures, the highest in the entire world. And welfare states tend to work better in high trust 
+societies.
+
+[Colin Mortimer] 21:05
+Could you elaborate more then on how you see cultural differences affecting the effects of 
+certain policies?
+
+[Scott Summer] 21:17
+Right. So in my study, one metric I used for a high trust society was a survey question that 
+was done all over the world. They asked people this question, is it acceptable to accept 
+government benefits to which you're not entitled? Not entitled? Like, is it okay to take 
+government benefits that you're not entitled to? And the people most likely to say, no, that's 
+not acceptable, lived in Denmark? Okay. Now, if you looked at all of the answers for all the 
+countries of the world where they asked this question, generally speaking, the rich countries 
+tended to be more high trust societies, developing countries tend to be more low trust society. 
+In within Europe, like Denmark was one extreme Greece was the other extreme. Another thing you 
+find is that if you correlate that sort of public opinion with other independent measures of 
+corruption, they're highly correlated. So in countries that are high trust, where people say 
+you shouldn't take government benefits, to which you're not entitled, there tend to be very, 
+very low levels of corruption. And so this sort of society like Denmark, there's a high level 
+of what's called civic virtue, it's possible to run a pretty big welfare state because people 
+will not abuse it, they'll only take the welfare benefits to which they're entitled, like, on 
+average. Obviously, there's exceptions to that, but they're more likely to, you know, adhere to 
+the spirit of the program. As you move to a lower trust society, it's more likely the system 
+will be abused. And not surprisingly, you don't tend to observe very, very large welfare 
+states, in low trust societies, because people would be more likely to abuse the system.
+
+[Colin Mortimer] 23:00
+And with that, Scott, thank you so much for taking time out of your day to speak with me. I 
+really appreciate it. Thank you for listening to this week's episode, the Neolib podcast. 
+Leave us a review if you liked this episode. Your host and doer of many things is Colin and 
+our executive producer as always is John Lobb. We have a website at neoliber.al and at Twitter, 
+which you can find on our website as well. Next week, we will sit down with Austin Allred to 
+discuss how he is revolutionizing education with a company called lambda school. Hope to see 
+you then.
